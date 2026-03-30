@@ -1,10 +1,12 @@
 import LandingPage from "./pages/LandingPage"
+import LoginPage from "./pages/Login"
 
 function App() {
 
   return (
     <>
-   <LandingPage></LandingPage>
+   {/* <LandingPage></LandingPage> */}
+   <LoginPage></LoginPage>
     </>
   )
 }
