@@ -13,7 +13,7 @@ function LoginPage(){
             Guardian of Your<br />Assets.
           </h1>
 
-          <p className="text-gray-400 max-w-md text-sm leading-relaxed ">
+          <p className="text-gray-300 max-w-md text-sm leading-relaxed ">
             Advanced AI-driven impulse protection. We sit between your intent and your capital, ensuring every transaction is aligned with your future.
           </p>
         </div>
