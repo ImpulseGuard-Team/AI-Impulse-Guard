@@ -5,7 +5,7 @@ function LoginPage(){
         <>
     <div className="min-h-screen flex flex-col md:flex-row text-white   ">
 
-      <div className="hidden md:flex md:w-1/2 flex-col justify-between p-10 bg-gradient-to-br from-[#060E20] to-[#60E20]">
+      <div className="hidden md:flex md:w-1/2 flex-col justify-between p-10 bg-gradient-to-br from-[#060E20] to-[#111c44]">
         <div className="space-y-6 text-center max-w-xl mx-auto">          <p className="text-gray-400 text-sm mb-6">Impulse Guard</p>
 
           <h1 className="text-5xl font-semibold leading-tight text-center">
@@ -79,7 +79,6 @@ function LoginPage(){
             />
           </div>
 
-          {/* PASSWORD */}
           <div className="mb-4">
             <div className="flex justify-between text-xs text-gray-400">
               <label>PASSWORD</label>
