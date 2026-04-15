@@ -43,7 +43,6 @@ function LoginPage(){
         </div>
       </div>
 
-      {/* RIGHT PANEL */}
       <div className="w-full md:w-1/2 flex items-center justify-center px-6 py-10 bg-[#0B1326]">
         <div className="w-full max-w-md">
 
